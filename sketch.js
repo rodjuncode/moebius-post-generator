@@ -35,7 +35,7 @@ function setup() {
     hueSlider.position(0, height+10);
     hueSlider.style('width', '80px');
 
-    inputTxt = createInput('A única pessoa livre é aquela que não tem medo do ridículo.');
+    inputTxt = createInput('Um gerador de posts, serve para alguma coisa?');
     inputTxt.position(5, height + 35);    
 
     saveButton = createButton('Salvar');
